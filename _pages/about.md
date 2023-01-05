@@ -15,7 +15,7 @@ Currently working with the [NIST Polymers Processing Group](https://www.nist.gov
 
 Formerly studying self-assembly and photonic properties of bottlebrush block copolymer solutions and melts as a graduate student in the [Diao Group](https://diao.scs.illinois.edu/){:target="_blank"} at the University of Illinois. 
 
-A more detailed account of my scholarly work can be found in my [resume](../files/resume.pdf){:target="_blank"} and [Google Scholar Profile](https://scholar.google.com/citations?user=qWFByPkAAAAJ&hl=en){:target="_blank"}. 
+A more detailed account of my scholarly work can be found in my [Google Scholar Profile](https://scholar.google.com/citations?user=qWFByPkAAAAJ&hl=en){:target="_blank"}. 
 
 
 Research interests 
