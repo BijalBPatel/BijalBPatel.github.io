@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 <br> 
-
 NRC Postdoctoral Fellow with 6+ years of experience in polymer solution/melt processing and self-assembly (block copolymers/ organic semiconductors) including structural characterization via synchrotron X-ray GI(SAXS/WAXS). Experience in scientific software and instrument development. Interdisciplinary publication record including 18 refereed publications, 6 first author, ~950 citations.  
 
 Currently working with the [NIST Polymers Processing Group](https://www.nist.gov/mml/materials-science-and-engineering-division/polymers-processing-group){:target="_blank"}, in the [Resonant Soft X-ray Scattering (RSoXS) Project](https://www.nist.gov/programs-projects/resonant-soft-x-ray-scattering-rsoxs){:target="_blank"}.
