@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bijal Patel"
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   bio              : "NRC Postdoctoral Fellow, Chemical Engineer, NIST"
   location         : "Gaithersburg, MD"
   employer         :
