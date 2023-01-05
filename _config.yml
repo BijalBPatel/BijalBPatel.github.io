@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Dr. Bijal Patel"
 title_separator          : "-"
-name                     : &name "Bijal Patel"
-description              : &description ""
-url                      : https://BijalPatelPhD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Bijal Patel"
+description              : &description "NRC Postdoctoral Researcher at NIST"
+url                      : https://BijalPatel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BijalBPatel/BijalPatelPhD.github.io"
+repository               : "BijalBPatel/BijalPatel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bijal Patel"
+  name             : "Dr. Bijal Patel"
   avatar           : "profile.png"
   bio              : "NRC Postdoctoral Fellow, Chemical Engineer, NIST"
   location         : "Gaithersburg, MD"
   employer         :
   pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=anshu+deewan"
-  googlescholar    : # "https://scholar.google.com/citations?user=xWlcH0YAAAAJ&hl=en"
-  email            :  "bijalpatelphd@outlook.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=qWFByPkAAAAJ&hl"
+  email            :  "BijalPatelPhd@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"anshudeewan"
+  github           : "bijalbpatel"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"anshudeewan"
-  orcid            : #"https://orcid.org/0000-0002-0288-8926"
+  orcid            : "https://orcid.org/0000-0002-8015-9075"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "AnshuDeewan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
