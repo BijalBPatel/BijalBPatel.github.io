@@ -11,9 +11,9 @@ title                    : "Dr. Bijal Patel"
 title_separator          : "-"
 name                     : &name "Dr. Bijal Patel"
 description              : &description "NRC Postdoctoral Researcher at NIST"
-url                      : https://BijalPatel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://BijalBPatel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BijalBPatel/BijalPatel.github.io"
+repository               : "BijalBPatel/BijalBPatel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
