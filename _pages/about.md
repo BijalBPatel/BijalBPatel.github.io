@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 <br> 
-I am a chemical engineer by training with 5+ years of research experience in Computational Genomics using Next Generation Sequencing & bioinformatics. My Ph.D. work has been focused on generating insights about cellular behavior using various genomics and bioinformatics data analyses.
 
-My Ph.D. advisor is [Prof. Christopher V. Rao](https://chbe.illinois.edu/directory/profile/cvrao){:target="_blank"} ([Rao Research Group](https://raogroupuiuc.github.io/webpage/){:target="_blank"}), and my research work is funded by the following grants by U.S. [Department of Energy](https://www.energy.gov/science/office-science){:target="_blank"}: Center for Advanced Bioenergy and Bioproducts Innovation ([CABBI](https://cabbi.bio/){:target="_blank"}) and Genome Scale Engineering Center ([GSE](https://www.igb.illinois.edu/research-areas/gsecenter){:target="_blank"}).
+NRC Postdoctoral Fellow with 6+ years of experience in polymer solution/melt processing and self-assembly (block copolymers/ organic semiconductors) including structural characterization via synchrotron X-ray GI(SAXS/WAXS). Experience in scientific software and instrument development. Interdisciplinary publication record including 18 refereed publications, 6 first author, ~950 citations.  
 
-I have previously been a part of [Unilever Future Leaders Programme](https://careers.unilever.com/unilever-future-leaders-programme){:target="_blank"} and worked as a Product Manager with [Unilever Research](https://www.hul.co.in/our-company/rd-innovation/our-rd-locations/mumbai-india/){:target="_blank"}. I am skilled in interdisciplinary research & project management in both academic and industry settings.
+Currently working with the [NIST Polymers Processing Group](https://www.nist.gov/mml/materials-science-and-engineering-division/polymers-processing-group){:target="_blank"}, in the [Resonant Soft X-ray Scattering (RSoXS) Project](https://www.nist.gov/programs-projects/resonant-soft-x-ray-scattering-rsoxs){:target="_blank"}.
 
-A detailed account of my work can be found in my [resume](../files/resume.pdf){:target="_blank"}. 
+Formerly studying self-assembly and photonic properties of bottlebrush block copolymer solutions and melts as a graduate student in the [Diao Group](https://diao.scs.illinois.edu/){:target="_blank"} at the University of Illinois. 
+
+A more detailed account of my scholarly work can be found in my [resume](../files/resume.pdf){:target="_blank"} and [Google Scholar Profile](https://scholar.google.com/citations?user=qWFByPkAAAAJ&hl=en){:target="_blank"}. 
 
 
 Research interests 
 ------
-- Systems Biology 
-- Eukaryotic genomics and bioinformatics
-- Next Generation Sequencing analysis 
-- Cellular metabolism of non-model organisms
+- X-ray Scattering of Hierarchical Materials
+- Polymer Self-Assembly and Nonequilibrum Processing
+- Additive Manufacturing
+- Measurement Science and Instrumentation
